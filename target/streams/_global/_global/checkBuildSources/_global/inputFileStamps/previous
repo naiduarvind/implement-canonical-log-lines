@@ -1,0 +1,1 @@
+["sbt.Task[scala.collection.Seq[scala.Tuple2[java.nio.file.Path, sbt.nio.FileStamp]]]",{"hashes":[["/Users/aquila/Projects/personal/stripe-canonical-log-format/build.sbt","d98b34abe5ee7760dfeec897caa6c552eb3f67b1"],["/Users/aquila/Projects/personal/stripe-canonical-log-format/project/scalapb.sbt","549dd2c3dd9a78b067e3ad98824c0e209280dd8d"]],"lastModifiedTimes":[]}]

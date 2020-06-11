@@ -1,0 +1,20 @@
+syntax = "proto3";
+
+message logGovernance {
+  string http_method = 1;
+  string http_path = 2;
+  int32 http_status = 3;
+  int32 database_queries = 4;
+  bool rate_allowed = 5;
+  int32 rate_quota = 6;
+  int32 rate_remaining = 7;
+
+
+  repeated serviceTeam serviceTeams = 8;
+}
+
+message serviceTeam {
+  string team_name = 1;
+  string service_name = 2;
+  string permission_used = 3;
+}

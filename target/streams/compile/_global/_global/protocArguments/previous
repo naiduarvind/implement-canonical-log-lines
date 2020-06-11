@@ -1,0 +1,1 @@
+["sbt.Task[sbtprotoc.ProtocPlugin$Arguments]",[["file:///Users/aquila/Projects/personal/stripe-canonical-log-format/src/main/protobuf/","file:///Users/aquila/Projects/personal/stripe-canonical-log-format/target/protobuf_external/"],[],true,[["file:///Users/aquila/Projects/personal/stripe-canonical-log-format/target/scala-2.13/src_managed/main/scalapb/",["grpc"]]]]]

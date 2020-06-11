@@ -1,0 +1,28 @@
+[0m[[0m[0mdebug[0m] [0m[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial source changes: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	removed:Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	added: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	modified: Set(/Users/aquila/Projects/personal/stripe-canonical-log-format/target/scala-2.13/src_managed/main/scalapb/person/Person.scala, /Users/aquila/Projects/personal/stripe-canonical-log-format/target/scala-2.13/src_managed/main/scalapb/person/Address.scala, /Users/aquila/Projects/personal/stripe-canonical-log-format/target/scala-2.13/src_managed/main/scalapb/person/PersonProto.scala)[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidated products: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mExternal API changes: API Changes: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mModified binary dependencies: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial directly invalidated classes: Set(person.PersonProto, person.Address, person.Person.PersonLens, person.Person, person.Address.AddressLens)[0m
+[0m[[0m[0mdebug[0m] [0m[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mSources indirectly invalidated by:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	product: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	binary dep: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	external source: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll sources are invalidated.[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: person.PersonProto, person.Address, person.Person.PersonLens, person.Person, person.Address.AddressLens[0m
+[0m[[0m[0mdebug[0m] [0m[0mRecompiling all sources: number of invalidated sources > 50.0% of all sources[0m
+[0m[[0m[0minfo[0m] [0m[0mCompiling 3 Scala sources to /Users/aquila/Projects/personal/stripe-canonical-log-format/target/scala-2.13/classes ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting org.scala-sbt:compiler-bridge_2.13:1.3.5:compile for Scala 2.13.2[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting org.scala-sbt:compiler-bridge_2.13:1.3.5:compile for Scala 2.13.2[0m
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] Running cached compiler 68fff1bc for Scala compiler version 2.13.2[0m
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] The Scala compiler is invoked with:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-bootclasspath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/Users/aquila/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.2/scala-library-2.13.2.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-classpath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/Users/aquila/Projects/personal/stripe-canonical-log-format/target/scala-2.13/classes:/Users/aquila/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/thesamet/scalapb/scalapb-runtime_2.13/0.10.1/scalapb-runtime_2.13-0.10.1.jar:/Users/aquila/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/thesamet/scalapb/lenses_2.13/0.10.1/lenses_2.13-0.10.1.jar:/Users/aquila/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/google/protobuf/protobuf-java/3.11.4/protobuf-java-3.11.4.jar:/Users/aquila/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-collection-compat_2.13/2.1.4/scala-collection-compat_2.13-2.1.4.jar:/Users/aquila/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/fastparse_2.13/2.2.4/fastparse_2.13-2.2.4.jar:/Users/aquila/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/sourcecode_2.13/0.2.1/sourcecode_2.13-0.2.1.jar:/Users/aquila/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/geny_2.13/0.5.1/geny_2.13-0.5.1.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0mScala compilation took 0.56429279 s[0m
+[0m[[0m[0minfo[0m] [0m[0mDone compiling.[0m
